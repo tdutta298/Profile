@@ -16,89 +16,80 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="tanushree_077"
-        android:textSize="25sp"
         android:textColor="@color/Dark_Blue"
-        android:textStyle="bold"
-        />
+        android:textSize="25sp"
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/ProfilePic"
         android:layout_width="132dp"
         android:layout_height="121dp"
         android:paddingTop="20dp"
-        android:src="@drawable/_profile_pic"
-        />
+        android:paddingBottom="20dp"
+        android:src="@drawable/_profile_pic" />
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:paddingTop="16dp"
+        android:layout_height="35dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Name : Tanushree Dutta"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Date Of Birth : 11|03|2004"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Gender : Female"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Contact Number : 7044533282"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Email : tanushreedutta298@gmail.com"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Adress : Shasthi-103, Aponaloy, Ganganagar, New Jessore Road"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:layout_gravity="left"
+        android:layout_marginTop="16dp"
         android:text="Region : Kolkata"
-        android:textSize="20sp"
         android:textColor="@color/Dark_Blue"
-        />
+        android:textSize="20sp" />
 
 </LinearLayout>
